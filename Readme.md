@@ -8,7 +8,10 @@ Every vote is stored immutably, ensuring fairness, transparency, and no double v
 
 This project demonstrates the **power of Solidity smart contracts** for governance or polling applications, making it perfect for blockchain beginners and learners.
 
----
+
+<img width="1688" height="862" alt="image" src="https://github.com/user-attachments/assets/bba5dd55-aaac-4ad4-ba5b-080defe357b7" />
+
+
 
 ## 💡 What It Does
 
